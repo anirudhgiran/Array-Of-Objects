@@ -50,6 +50,14 @@ public class Main {
             
          
          Student[] list = new Student[3];
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
          Student s1 = new Student();
          
         /* System.out.println("Enter s1 name: ");
@@ -71,9 +79,16 @@ public class Main {
          s3.setSid(3);
          
          
+         for(int i =0; i<list.length; i++)
+         {
+              Student s6 = new Student();
+         list[i]=s6;
+    }
+          
+         /*
          list[0]= s1;
          list[1]=s2;
-         list[2]=s3;
+         list[2]=s3;*/
          
          
          
@@ -89,7 +104,7 @@ public class Main {
          System.out.println("Student ID: " + s1.getSid());*/
         
 
-
+        System.out.println("Anirudh Giran");
 
 
 
